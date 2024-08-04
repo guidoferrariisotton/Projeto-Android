@@ -63,7 +63,7 @@ header > p {
   padding: 0 10px;
   margin: auto;
   max-width: 600px;
-  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 main {
